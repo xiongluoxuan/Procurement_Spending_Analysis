@@ -1,0 +1,9 @@
+- [x] 检查原始数据行数
+- [x] 检查缺失值
+- [x] 检查完全重复记录
+- [x] 检查字段数据类型
+- [x] 抽样复核 Quantity × Unit Price
+- [x] 核对Python清洗前后行数
+- [x] 核对Python与Excel总采购金额
+- [x] 核对Power Query版与Python版KPI
+- [ ] 核对Power BI与Excel KPI
